@@ -19,4 +19,4 @@ de Ingeniería de Software. Presenta mi perfil, formación, habilidades y proyec
 🔗 https://mrtnzjuliancho-svg.github.io/mi--portafolio
 
 ## Autor
-Nelson Julián Martínez Bedoya — Ingeniería de Software — 2025
+Nelson Julián Martínez Bedoya — Ingeniería de Software — 2026
