@@ -45,11 +45,4 @@ Ingeniería de Software — 2026
 
 ---
 
-## 📸 Vista Previa
-
-> Aquí puedes agregar una captura de pantalla de tu portafolio.
-
-```bash
-📁 assets/
- ┗ 📷 preview.png
 
