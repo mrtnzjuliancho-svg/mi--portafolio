@@ -51,13 +51,5 @@ Integración de un reproductor de audio con presentación personal.
 **Nelson Julián Martínez Bedoya**  
 Estudiante de Ingeniería de Software — 2026
 
----
-
-## Vista Previa
-
-Agrega una captura de pantalla del proyecto dentro de una carpeta llamada `assets` y utiliza la siguiente línea:
-
-```md
-![Vista previa del portafolio](assets/preview.png)
 
 
