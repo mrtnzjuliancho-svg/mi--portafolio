@@ -1,12 +1,13 @@
-# 🌐 Portafolio Web Personal — Nelson Julián Martínez Bedoya
+# Portafolio Web Personal — Nelson Julián Martínez Bedoya
 
-## 📖 Descripción
+## Descripción
+
 Portafolio web personal desarrollado como actividad académica del programa de Ingeniería de Software.  
-El sitio presenta mi perfil profesional, formación académica, habilidades técnicas y proyectos desarrollados.
+El sitio presenta información sobre mi perfil profesional, formación académica, habilidades técnicas y proyectos desarrollados.
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
@@ -14,35 +15,49 @@ El sitio presenta mi perfil profesional, formación académica, habilidades téc
 
 ---
 
-## ✨ Características
+## Funcionalidades
 
-✔️ Diseño web responsivo  
-✔️ Animaciones interactivas con JavaScript  
-✔️ Reproductor de audio de presentación personal  
-✔️ Secciones organizadas y navegación intuitiva  
-
----
-
-## 📂 Secciones del Portafolio
-
-- 🏠 Página principal con perfil y objetivos
-- 🎓 Formación académica y certificaciones
-- 💻 Proyectos desarrollados
-- 🎵 Integración de audio de presentación personal
+- Diseño web responsivo
+- Animaciones e interactividad con JavaScript
+- Reproductor de audio de presentación personal
+- Navegación organizada e intuitiva
 
 ---
 
-## 🔗 Ver Portafolio
+## Contenido del Sitio
 
-👉 [Abrir Portafolio Web](https://mrtnzjuliancho-svg.github.io/mi--portafolio)
+### Inicio
+Presentación personal, perfil y objetivos profesionales.
+
+### Formación Académica
+Información sobre estudios, cursos y certificaciones.
+
+### Proyectos
+Muestra de proyectos académicos y personales desarrollados.
+
+### Presentación en Audio
+Integración de un reproductor de audio con presentación personal.
 
 ---
 
-## 👨‍💻 Autor
+## Enlace del Proyecto
+
+[Ver Portafolio Web](https://mrtnzjuliancho-svg.github.io/mi--portafolio)
+
+---
+
+## Autor
 
 **Nelson Julián Martínez Bedoya**  
-Ingeniería de Software — 2026
+Estudiante de Ingeniería de Software — 2026
 
 ---
+
+## Vista Previa
+
+Agrega una captura de pantalla del proyecto dentro de una carpeta llamada `assets` y utiliza la siguiente línea:
+
+```md
+![Vista previa del portafolio](assets/preview.png)
 
 
