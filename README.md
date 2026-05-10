@@ -1,46 +1,55 @@
-Portafolio Web Personal — Nelson Julián Martínez Bedoya
+# 🌐 Portafolio Web Personal — Nelson Julián Martínez Bedoya
 
-Descripción
+## 📖 Descripción
+Portafolio web personal desarrollado como actividad académica del programa de Ingeniería de Software.  
+El sitio presenta mi perfil profesional, formación académica, habilidades técnicas y proyectos desarrollados.
 
-Portafolio web personal desarrollado como actividad académica del programa de Ingeniería de Software. Presenta mi perfil, formación, habilidades y proyectos.
-Tecnologías utilizadas
+---
 
-* HTML5
-* CSS3
-* JavaScript (animaciones y reproductor de audio)
-Secciones
+## 🚀 Tecnologías Utilizadas
 
-* Página principal con perfil y objetivos
-* Formación académica y certificaciones.
-* Proyectos desarrollados
-* Integración de audio de presentación personal.
-Ver portafolio
+- HTML5
+- CSS3
+- JavaScript
 
-🔗 https://mrtnzjuliancho-svg.github.io/mi--portafolio
-Autor
+---
 
-Nelson Julián Martínez Bedoya — Ingeniería de Software — 2026
+## ✨ Características
 
- Portafolio Web Personal — Nelson Julián Martínez Bedoya
+✔️ Diseño web responsivo  
+✔️ Animaciones interactivas con JavaScript  
+✔️ Reproductor de audio de presentación personal  
+✔️ Secciones organizadas y navegación intuitiva  
 
-Descripción
+---
 
-Portafolio web personal desarrollado como actividad académica del programa de Ingeniería de Software. Presenta mi perfil, formación, habilidades y proyectos.
-Tecnologías utilizadas
+## 📂 Secciones del Portafolio
 
-* HTML5
-* CSS3
-* JavaScript (animaciones y reproductor de audio)
-Secciones
+- 🏠 Página principal con perfil y objetivos
+- 🎓 Formación académica y certificaciones
+- 💻 Proyectos desarrollados
+- 🎵 Integración de audio de presentación personal
 
-* Página principal con perfil y objetivos
-* Formación académica y certificaciones.
-* Proyectos desarrollados
-* Integración de audio de presentación personal.
-Ver portafolio
+---
 
-🔗 https://mrtnzjuliancho-svg.github.io/mi--portafolio
-Autor
+## 🔗 Ver Portafolio
 
-Nelson Julián Martínez Bedoya — Ingeniería de Software — 2026
+👉 [Abrir Portafolio Web](https://mrtnzjuliancho-svg.github.io/mi--portafolio)
+
+---
+
+## 👨‍💻 Autor
+
+**Nelson Julián Martínez Bedoya**  
+Ingeniería de Software — 2026
+
+---
+
+## 📸 Vista Previa
+
+> Aquí puedes agregar una captura de pantalla de tu portafolio.
+
+```bash
+📁 assets/
+ ┗ 📷 preview.png
 
